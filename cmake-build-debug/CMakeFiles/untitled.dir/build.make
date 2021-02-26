@@ -62,10 +62,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\bilpa\CLionProjects\untitled
+CMAKE_SOURCE_DIR = D:\Papster\Codes\C\LotteryConsultantPaidCheating
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\bilpa\CLionProjects\untitled\cmake-build-debug
+CMAKE_BINARY_DIR = D:\Papster\Codes\C\LotteryConsultantPaidCheating\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/untitled.dir/depend.make
@@ -78,81 +78,81 @@ include CMakeFiles/untitled.dir/flags.make
 
 CMakeFiles/untitled.dir/main.c.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/main.c.obj: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\bilpa\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/untitled.dir/main.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled.dir\main.c.obj   -c C:\Users\bilpa\CLionProjects\untitled\main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Papster\Codes\C\LotteryConsultantPaidCheating\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/untitled.dir/main.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled.dir\main.c.obj   -c D:\Papster\Codes\C\LotteryConsultantPaidCheating\main.c
 
 CMakeFiles/untitled.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/main.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bilpa\CLionProjects\untitled\main.c > CMakeFiles\untitled.dir\main.c.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Papster\Codes\C\LotteryConsultantPaidCheating\main.c > CMakeFiles\untitled.dir\main.c.i
 
 CMakeFiles/untitled.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/main.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bilpa\CLionProjects\untitled\main.c -o CMakeFiles\untitled.dir\main.c.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Papster\Codes\C\LotteryConsultantPaidCheating\main.c -o CMakeFiles\untitled.dir\main.c.s
 
 CMakeFiles/untitled.dir/fileHandlingFunctions.c.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/fileHandlingFunctions.c.obj: ../fileHandlingFunctions.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\bilpa\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/untitled.dir/fileHandlingFunctions.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled.dir\fileHandlingFunctions.c.obj   -c C:\Users\bilpa\CLionProjects\untitled\fileHandlingFunctions.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Papster\Codes\C\LotteryConsultantPaidCheating\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/untitled.dir/fileHandlingFunctions.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled.dir\fileHandlingFunctions.c.obj   -c D:\Papster\Codes\C\LotteryConsultantPaidCheating\fileHandlingFunctions.c
 
 CMakeFiles/untitled.dir/fileHandlingFunctions.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/fileHandlingFunctions.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bilpa\CLionProjects\untitled\fileHandlingFunctions.c > CMakeFiles\untitled.dir\fileHandlingFunctions.c.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Papster\Codes\C\LotteryConsultantPaidCheating\fileHandlingFunctions.c > CMakeFiles\untitled.dir\fileHandlingFunctions.c.i
 
 CMakeFiles/untitled.dir/fileHandlingFunctions.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/fileHandlingFunctions.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bilpa\CLionProjects\untitled\fileHandlingFunctions.c -o CMakeFiles\untitled.dir\fileHandlingFunctions.c.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Papster\Codes\C\LotteryConsultantPaidCheating\fileHandlingFunctions.c -o CMakeFiles\untitled.dir\fileHandlingFunctions.c.s
 
 CMakeFiles/untitled.dir/metrics.c.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/metrics.c.obj: ../metrics.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\bilpa\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/untitled.dir/metrics.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled.dir\metrics.c.obj   -c C:\Users\bilpa\CLionProjects\untitled\metrics.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Papster\Codes\C\LotteryConsultantPaidCheating\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/untitled.dir/metrics.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled.dir\metrics.c.obj   -c D:\Papster\Codes\C\LotteryConsultantPaidCheating\metrics.c
 
 CMakeFiles/untitled.dir/metrics.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/metrics.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bilpa\CLionProjects\untitled\metrics.c > CMakeFiles\untitled.dir\metrics.c.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Papster\Codes\C\LotteryConsultantPaidCheating\metrics.c > CMakeFiles\untitled.dir\metrics.c.i
 
 CMakeFiles/untitled.dir/metrics.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/metrics.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bilpa\CLionProjects\untitled\metrics.c -o CMakeFiles\untitled.dir\metrics.c.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Papster\Codes\C\LotteryConsultantPaidCheating\metrics.c -o CMakeFiles\untitled.dir\metrics.c.s
 
 CMakeFiles/untitled.dir/utilityFunctions.c.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/utilityFunctions.c.obj: ../utilityFunctions.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\bilpa\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/untitled.dir/utilityFunctions.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled.dir\utilityFunctions.c.obj   -c C:\Users\bilpa\CLionProjects\untitled\utilityFunctions.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Papster\Codes\C\LotteryConsultantPaidCheating\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/untitled.dir/utilityFunctions.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled.dir\utilityFunctions.c.obj   -c D:\Papster\Codes\C\LotteryConsultantPaidCheating\utilityFunctions.c
 
 CMakeFiles/untitled.dir/utilityFunctions.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/utilityFunctions.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bilpa\CLionProjects\untitled\utilityFunctions.c > CMakeFiles\untitled.dir\utilityFunctions.c.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Papster\Codes\C\LotteryConsultantPaidCheating\utilityFunctions.c > CMakeFiles\untitled.dir\utilityFunctions.c.i
 
 CMakeFiles/untitled.dir/utilityFunctions.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/utilityFunctions.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bilpa\CLionProjects\untitled\utilityFunctions.c -o CMakeFiles\untitled.dir\utilityFunctions.c.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Papster\Codes\C\LotteryConsultantPaidCheating\utilityFunctions.c -o CMakeFiles\untitled.dir\utilityFunctions.c.s
 
 CMakeFiles/untitled.dir/requestHandling.c.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/requestHandling.c.obj: ../requestHandling.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\bilpa\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/untitled.dir/requestHandling.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled.dir\requestHandling.c.obj   -c C:\Users\bilpa\CLionProjects\untitled\requestHandling.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Papster\Codes\C\LotteryConsultantPaidCheating\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/untitled.dir/requestHandling.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled.dir\requestHandling.c.obj   -c D:\Papster\Codes\C\LotteryConsultantPaidCheating\requestHandling.c
 
 CMakeFiles/untitled.dir/requestHandling.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/requestHandling.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bilpa\CLionProjects\untitled\requestHandling.c > CMakeFiles\untitled.dir\requestHandling.c.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Papster\Codes\C\LotteryConsultantPaidCheating\requestHandling.c > CMakeFiles\untitled.dir\requestHandling.c.i
 
 CMakeFiles/untitled.dir/requestHandling.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/requestHandling.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bilpa\CLionProjects\untitled\requestHandling.c -o CMakeFiles\untitled.dir\requestHandling.c.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Papster\Codes\C\LotteryConsultantPaidCheating\requestHandling.c -o CMakeFiles\untitled.dir\requestHandling.c.s
 
 CMakeFiles/untitled.dir/errorHandling.c.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/errorHandling.c.obj: ../errorHandling.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\bilpa\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/untitled.dir/errorHandling.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled.dir\errorHandling.c.obj   -c C:\Users\bilpa\CLionProjects\untitled\errorHandling.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Papster\Codes\C\LotteryConsultantPaidCheating\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/untitled.dir/errorHandling.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled.dir\errorHandling.c.obj   -c D:\Papster\Codes\C\LotteryConsultantPaidCheating\errorHandling.c
 
 CMakeFiles/untitled.dir/errorHandling.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/errorHandling.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\bilpa\CLionProjects\untitled\errorHandling.c > CMakeFiles\untitled.dir\errorHandling.c.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Papster\Codes\C\LotteryConsultantPaidCheating\errorHandling.c > CMakeFiles\untitled.dir\errorHandling.c.i
 
 CMakeFiles/untitled.dir/errorHandling.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/errorHandling.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\bilpa\CLionProjects\untitled\errorHandling.c -o CMakeFiles\untitled.dir\errorHandling.c.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Papster\Codes\C\LotteryConsultantPaidCheating\errorHandling.c -o CMakeFiles\untitled.dir\errorHandling.c.s
 
 # Object files for target untitled
 untitled_OBJECTS = \
@@ -176,7 +176,7 @@ untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\bilpa\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Papster\Codes\C\LotteryConsultantPaidCheating\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -189,6 +189,6 @@ CMakeFiles/untitled.dir/clean:
 .PHONY : CMakeFiles/untitled.dir/clean
 
 CMakeFiles/untitled.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\bilpa\CLionProjects\untitled C:\Users\bilpa\CLionProjects\untitled C:\Users\bilpa\CLionProjects\untitled\cmake-build-debug C:\Users\bilpa\CLionProjects\untitled\cmake-build-debug C:\Users\bilpa\CLionProjects\untitled\cmake-build-debug\CMakeFiles\untitled.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\Papster\Codes\C\LotteryConsultantPaidCheating D:\Papster\Codes\C\LotteryConsultantPaidCheating D:\Papster\Codes\C\LotteryConsultantPaidCheating\cmake-build-debug D:\Papster\Codes\C\LotteryConsultantPaidCheating\cmake-build-debug D:\Papster\Codes\C\LotteryConsultantPaidCheating\cmake-build-debug\CMakeFiles\untitled.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/untitled.dir/depend
 
