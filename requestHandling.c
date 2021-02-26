@@ -22,21 +22,21 @@ void handleRequest(int **drawHistory, int numberOfRecordDates, int numbers, int 
     float *relativeDelay = NULL;
 
     switch (metric) {
-        case 0:
+        case METRIC_FREQUENCY_OF_APPEARANCE:
             dataToAnalyze = constructFrequencyArray(drawHistory, numberOfRecordDates);
             break;
 
-        case 1:
+        case METRIC_DELAY_OF_APPEARANCE:
             dataToAnalyze = constructDelayArray(drawHistory, numberOfRecordDates);
             break;
 
-        case 2:
+        case METRIC_SUM_FREQUENCY_DELAY:
             dataToAnalyze = constructFrequencyArray(drawHistory, numberOfRecordDates);
             delay = constructDelayArray(drawHistory, numberOfRecordDates);
             addArrayToArray(dataToAnalyze, delay, UPPER_LIMIT_FOR_DRAWN_NUMBER);
             break;
 
-        default:
+        case METRIC_RELATIVE_DELAY:
             appearanceFrequency = constructFrequencyArray(drawHistory, numberOfRecordDates);
             delay = constructDelayArray(drawHistory, numberOfRecordDates);
             relativeDelay = constructRelativeDelayArray(appearanceFrequency, delay, numberOfRecordDates);
@@ -47,6 +47,13 @@ void handleRequest(int **drawHistory, int numberOfRecordDates, int numbers, int 
             free(delay);
             free(relativeDelay);
             return;
+
+        default:
+            // no default case for enhanced code readability
+            // new metrics, potentially added later on, must be handled here
+            printf("I do not know how to handle this request with serial number %d. "
+                   "Please contact the developer", metric);
+            exit(-1);
     }
 
     appearanceFrequency = sortWithIndicesInteger(dataToAnalyze, UPPER_LIMIT_FOR_DRAWN_NUMBER);
