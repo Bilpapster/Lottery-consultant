@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bilpa/CLionProjects/untitled/macrosDefinition.h
+
+C:/Users/bilpa/CLionProjects/untitled/utilityFunctions.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+macrosDefinition.h
+C:/Users/bilpa/CLionProjects/untitled/macrosDefinition.h
+utilityFunctions.h
+C:/Users/bilpa/CLionProjects/untitled/utilityFunctions.h
+
+C:/Users/bilpa/CLionProjects/untitled/utilityFunctions.h
+stdbool.h
+-
+
