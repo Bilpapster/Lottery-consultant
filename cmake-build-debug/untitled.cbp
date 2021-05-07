@@ -74,40 +74,40 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/errorHandling.c">
+		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/Consultant/main.c">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/errorHandling.h">
+		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/Error Handling/errorHandling.c">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/fileHandlingFunctions.c">
+		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/Error Handling/errorHandling.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/fileHandlingFunctions.h">
+		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/File Handling/fileHandlingFunctions.c">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/macrosDefinition.h">
+		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/File Handling/fileHandlingFunctions.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/main.c">
+		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/Model/metrics.c">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/metrics.c">
+		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/Model/metrics.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/metrics.h">
+		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/Model/requestHandling.c">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/requestHandling.c">
+		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/Model/requestHandling.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/requestHandling.h">
+		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/Utility/macrosDefinition.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/utilityFunctions.c">
+		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/Utility/utilityFunctions.c">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/utilityFunctions.h">
+		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/Utility/utilityFunctions.h">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="D:/Papster/Codes/C/LotteryConsultantPaidCheating/CMakeLists.txt">

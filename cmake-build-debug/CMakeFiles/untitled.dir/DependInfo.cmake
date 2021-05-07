@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/Papster/Codes/C/LotteryConsultantPaidCheating/errorHandling.c" "D:/Papster/Codes/C/LotteryConsultantPaidCheating/cmake-build-debug/CMakeFiles/untitled.dir/errorHandling.c.obj"
-  "D:/Papster/Codes/C/LotteryConsultantPaidCheating/fileHandlingFunctions.c" "D:/Papster/Codes/C/LotteryConsultantPaidCheating/cmake-build-debug/CMakeFiles/untitled.dir/fileHandlingFunctions.c.obj"
-  "D:/Papster/Codes/C/LotteryConsultantPaidCheating/main.c" "D:/Papster/Codes/C/LotteryConsultantPaidCheating/cmake-build-debug/CMakeFiles/untitled.dir/main.c.obj"
-  "D:/Papster/Codes/C/LotteryConsultantPaidCheating/metrics.c" "D:/Papster/Codes/C/LotteryConsultantPaidCheating/cmake-build-debug/CMakeFiles/untitled.dir/metrics.c.obj"
-  "D:/Papster/Codes/C/LotteryConsultantPaidCheating/requestHandling.c" "D:/Papster/Codes/C/LotteryConsultantPaidCheating/cmake-build-debug/CMakeFiles/untitled.dir/requestHandling.c.obj"
-  "D:/Papster/Codes/C/LotteryConsultantPaidCheating/utilityFunctions.c" "D:/Papster/Codes/C/LotteryConsultantPaidCheating/cmake-build-debug/CMakeFiles/untitled.dir/utilityFunctions.c.obj"
+  "D:/Papster/Codes/C/LotteryConsultantPaidCheating/Consultant/main.c" "D:/Papster/Codes/C/LotteryConsultantPaidCheating/cmake-build-debug/CMakeFiles/untitled.dir/Consultant/main.c.obj"
+  "D:/Papster/Codes/C/LotteryConsultantPaidCheating/Error Handling/errorHandling.c" "D:/Papster/Codes/C/LotteryConsultantPaidCheating/cmake-build-debug/CMakeFiles/untitled.dir/Error_Handling/errorHandling.c.obj"
+  "D:/Papster/Codes/C/LotteryConsultantPaidCheating/File Handling/fileHandlingFunctions.c" "D:/Papster/Codes/C/LotteryConsultantPaidCheating/cmake-build-debug/CMakeFiles/untitled.dir/File_Handling/fileHandlingFunctions.c.obj"
+  "D:/Papster/Codes/C/LotteryConsultantPaidCheating/Model/metrics.c" "D:/Papster/Codes/C/LotteryConsultantPaidCheating/cmake-build-debug/CMakeFiles/untitled.dir/Model/metrics.c.obj"
+  "D:/Papster/Codes/C/LotteryConsultantPaidCheating/Model/requestHandling.c" "D:/Papster/Codes/C/LotteryConsultantPaidCheating/cmake-build-debug/CMakeFiles/untitled.dir/Model/requestHandling.c.obj"
+  "D:/Papster/Codes/C/LotteryConsultantPaidCheating/Utility/utilityFunctions.c" "D:/Papster/Codes/C/LotteryConsultantPaidCheating/cmake-build-debug/CMakeFiles/untitled.dir/Utility/utilityFunctions.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

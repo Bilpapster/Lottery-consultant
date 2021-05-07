@@ -142,167 +142,167 @@ untitled/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
-errorHandling.obj: errorHandling.c.obj
+Consultant/main.obj: Consultant/main.c.obj
 
-.PHONY : errorHandling.obj
-
-# target to build an object file
-errorHandling.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/errorHandling.c.obj
-.PHONY : errorHandling.c.obj
-
-errorHandling.i: errorHandling.c.i
-
-.PHONY : errorHandling.i
-
-# target to preprocess a source file
-errorHandling.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/errorHandling.c.i
-.PHONY : errorHandling.c.i
-
-errorHandling.s: errorHandling.c.s
-
-.PHONY : errorHandling.s
-
-# target to generate assembly for a file
-errorHandling.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/errorHandling.c.s
-.PHONY : errorHandling.c.s
-
-fileHandlingFunctions.obj: fileHandlingFunctions.c.obj
-
-.PHONY : fileHandlingFunctions.obj
+.PHONY : Consultant/main.obj
 
 # target to build an object file
-fileHandlingFunctions.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/fileHandlingFunctions.c.obj
-.PHONY : fileHandlingFunctions.c.obj
+Consultant/main.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Consultant/main.c.obj
+.PHONY : Consultant/main.c.obj
 
-fileHandlingFunctions.i: fileHandlingFunctions.c.i
+Consultant/main.i: Consultant/main.c.i
 
-.PHONY : fileHandlingFunctions.i
+.PHONY : Consultant/main.i
 
 # target to preprocess a source file
-fileHandlingFunctions.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/fileHandlingFunctions.c.i
-.PHONY : fileHandlingFunctions.c.i
+Consultant/main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Consultant/main.c.i
+.PHONY : Consultant/main.c.i
 
-fileHandlingFunctions.s: fileHandlingFunctions.c.s
+Consultant/main.s: Consultant/main.c.s
 
-.PHONY : fileHandlingFunctions.s
+.PHONY : Consultant/main.s
 
 # target to generate assembly for a file
-fileHandlingFunctions.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/fileHandlingFunctions.c.s
-.PHONY : fileHandlingFunctions.c.s
+Consultant/main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Consultant/main.c.s
+.PHONY : Consultant/main.c.s
 
-main.obj: main.c.obj
+Error_Handling/errorHandling.obj: Error_Handling/errorHandling.c.obj
 
-.PHONY : main.obj
+.PHONY : Error_Handling/errorHandling.obj
 
 # target to build an object file
-main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/main.c.obj
-.PHONY : main.c.obj
+Error_Handling/errorHandling.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Error_Handling/errorHandling.c.obj
+.PHONY : Error_Handling/errorHandling.c.obj
 
-main.i: main.c.i
+Error_Handling/errorHandling.i: Error_Handling/errorHandling.c.i
 
-.PHONY : main.i
+.PHONY : Error_Handling/errorHandling.i
 
 # target to preprocess a source file
-main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/main.c.i
-.PHONY : main.c.i
+Error_Handling/errorHandling.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Error_Handling/errorHandling.c.i
+.PHONY : Error_Handling/errorHandling.c.i
 
-main.s: main.c.s
+Error_Handling/errorHandling.s: Error_Handling/errorHandling.c.s
 
-.PHONY : main.s
+.PHONY : Error_Handling/errorHandling.s
 
 # target to generate assembly for a file
-main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/main.c.s
-.PHONY : main.c.s
+Error_Handling/errorHandling.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Error_Handling/errorHandling.c.s
+.PHONY : Error_Handling/errorHandling.c.s
 
-metrics.obj: metrics.c.obj
+File_Handling/fileHandlingFunctions.obj: File_Handling/fileHandlingFunctions.c.obj
 
-.PHONY : metrics.obj
+.PHONY : File_Handling/fileHandlingFunctions.obj
 
 # target to build an object file
-metrics.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/metrics.c.obj
-.PHONY : metrics.c.obj
+File_Handling/fileHandlingFunctions.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/File_Handling/fileHandlingFunctions.c.obj
+.PHONY : File_Handling/fileHandlingFunctions.c.obj
 
-metrics.i: metrics.c.i
+File_Handling/fileHandlingFunctions.i: File_Handling/fileHandlingFunctions.c.i
 
-.PHONY : metrics.i
+.PHONY : File_Handling/fileHandlingFunctions.i
 
 # target to preprocess a source file
-metrics.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/metrics.c.i
-.PHONY : metrics.c.i
+File_Handling/fileHandlingFunctions.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/File_Handling/fileHandlingFunctions.c.i
+.PHONY : File_Handling/fileHandlingFunctions.c.i
 
-metrics.s: metrics.c.s
+File_Handling/fileHandlingFunctions.s: File_Handling/fileHandlingFunctions.c.s
 
-.PHONY : metrics.s
+.PHONY : File_Handling/fileHandlingFunctions.s
 
 # target to generate assembly for a file
-metrics.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/metrics.c.s
-.PHONY : metrics.c.s
+File_Handling/fileHandlingFunctions.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/File_Handling/fileHandlingFunctions.c.s
+.PHONY : File_Handling/fileHandlingFunctions.c.s
 
-requestHandling.obj: requestHandling.c.obj
+Model/metrics.obj: Model/metrics.c.obj
 
-.PHONY : requestHandling.obj
+.PHONY : Model/metrics.obj
 
 # target to build an object file
-requestHandling.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/requestHandling.c.obj
-.PHONY : requestHandling.c.obj
+Model/metrics.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Model/metrics.c.obj
+.PHONY : Model/metrics.c.obj
 
-requestHandling.i: requestHandling.c.i
+Model/metrics.i: Model/metrics.c.i
 
-.PHONY : requestHandling.i
+.PHONY : Model/metrics.i
 
 # target to preprocess a source file
-requestHandling.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/requestHandling.c.i
-.PHONY : requestHandling.c.i
+Model/metrics.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Model/metrics.c.i
+.PHONY : Model/metrics.c.i
 
-requestHandling.s: requestHandling.c.s
+Model/metrics.s: Model/metrics.c.s
 
-.PHONY : requestHandling.s
+.PHONY : Model/metrics.s
 
 # target to generate assembly for a file
-requestHandling.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/requestHandling.c.s
-.PHONY : requestHandling.c.s
+Model/metrics.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Model/metrics.c.s
+.PHONY : Model/metrics.c.s
 
-utilityFunctions.obj: utilityFunctions.c.obj
+Model/requestHandling.obj: Model/requestHandling.c.obj
 
-.PHONY : utilityFunctions.obj
+.PHONY : Model/requestHandling.obj
 
 # target to build an object file
-utilityFunctions.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/utilityFunctions.c.obj
-.PHONY : utilityFunctions.c.obj
+Model/requestHandling.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Model/requestHandling.c.obj
+.PHONY : Model/requestHandling.c.obj
 
-utilityFunctions.i: utilityFunctions.c.i
+Model/requestHandling.i: Model/requestHandling.c.i
 
-.PHONY : utilityFunctions.i
+.PHONY : Model/requestHandling.i
 
 # target to preprocess a source file
-utilityFunctions.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/utilityFunctions.c.i
-.PHONY : utilityFunctions.c.i
+Model/requestHandling.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Model/requestHandling.c.i
+.PHONY : Model/requestHandling.c.i
 
-utilityFunctions.s: utilityFunctions.c.s
+Model/requestHandling.s: Model/requestHandling.c.s
 
-.PHONY : utilityFunctions.s
+.PHONY : Model/requestHandling.s
 
 # target to generate assembly for a file
-utilityFunctions.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/utilityFunctions.c.s
-.PHONY : utilityFunctions.c.s
+Model/requestHandling.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Model/requestHandling.c.s
+.PHONY : Model/requestHandling.c.s
+
+Utility/utilityFunctions.obj: Utility/utilityFunctions.c.obj
+
+.PHONY : Utility/utilityFunctions.obj
+
+# target to build an object file
+Utility/utilityFunctions.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Utility/utilityFunctions.c.obj
+.PHONY : Utility/utilityFunctions.c.obj
+
+Utility/utilityFunctions.i: Utility/utilityFunctions.c.i
+
+.PHONY : Utility/utilityFunctions.i
+
+# target to preprocess a source file
+Utility/utilityFunctions.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Utility/utilityFunctions.c.i
+.PHONY : Utility/utilityFunctions.c.i
+
+Utility/utilityFunctions.s: Utility/utilityFunctions.c.s
+
+.PHONY : Utility/utilityFunctions.s
+
+# target to generate assembly for a file
+Utility/utilityFunctions.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Utility/utilityFunctions.c.s
+.PHONY : Utility/utilityFunctions.c.s
 
 # Help Target
 help:
@@ -313,24 +313,24 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... untitled
-	@echo ... errorHandling.obj
-	@echo ... errorHandling.i
-	@echo ... errorHandling.s
-	@echo ... fileHandlingFunctions.obj
-	@echo ... fileHandlingFunctions.i
-	@echo ... fileHandlingFunctions.s
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
-	@echo ... metrics.obj
-	@echo ... metrics.i
-	@echo ... metrics.s
-	@echo ... requestHandling.obj
-	@echo ... requestHandling.i
-	@echo ... requestHandling.s
-	@echo ... utilityFunctions.obj
-	@echo ... utilityFunctions.i
-	@echo ... utilityFunctions.s
+	@echo ... Consultant/main.obj
+	@echo ... Consultant/main.i
+	@echo ... Consultant/main.s
+	@echo ... Error_Handling/errorHandling.obj
+	@echo ... Error_Handling/errorHandling.i
+	@echo ... Error_Handling/errorHandling.s
+	@echo ... File_Handling/fileHandlingFunctions.obj
+	@echo ... File_Handling/fileHandlingFunctions.i
+	@echo ... File_Handling/fileHandlingFunctions.s
+	@echo ... Model/metrics.obj
+	@echo ... Model/metrics.i
+	@echo ... Model/metrics.s
+	@echo ... Model/requestHandling.obj
+	@echo ... Model/requestHandling.i
+	@echo ... Model/requestHandling.s
+	@echo ... Utility/utilityFunctions.obj
+	@echo ... Utility/utilityFunctions.i
+	@echo ... Utility/utilityFunctions.s
 .PHONY : help
 
 

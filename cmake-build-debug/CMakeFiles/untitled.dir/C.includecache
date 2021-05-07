@@ -6,93 +6,33 @@
 
 #IncludeRegexTransform: 
 
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/errorHandling.c
+D:/Papster/Codes/C/LotteryConsultantPaidCheating/Consultant/main.c
 stdio.h
 -
 stdlib.h
 -
-macrosDefinition.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/macrosDefinition.h
-errorHandling.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/errorHandling.h
-
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/errorHandling.h
-
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/fileHandlingFunctions.c
-stdio.h
+hstring.h
 -
-stdlib.h
--
-macrosDefinition.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/macrosDefinition.h
-utilityFunctions.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/utilityFunctions.h
-fileHandlingFunctions.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/fileHandlingFunctions.h
-errorHandling.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/errorHandling.h
+../Utility/macrosDefinition.h
+D:/Papster/Codes/C/LotteryConsultantPaidCheating/Utility/macrosDefinition.h
+../Utility/utilityFunctions.h
+D:/Papster/Codes/C/LotteryConsultantPaidCheating/Utility/utilityFunctions.h
+../File Handling/fileHandlingFunctions.h
+D:/Papster/Codes/C/LotteryConsultantPaidCheating/File Handling/fileHandlingFunctions.h
+../Model/requestHandling.h
+D:/Papster/Codes/C/LotteryConsultantPaidCheating/Model/requestHandling.h
+../Error Handling/errorHandling.h
+D:/Papster/Codes/C/LotteryConsultantPaidCheating/Error Handling/errorHandling.h
 
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/fileHandlingFunctions.h
+D:/Papster/Codes/C/LotteryConsultantPaidCheating/Error Handling/errorHandling.h
 
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/macrosDefinition.h
+D:/Papster/Codes/C/LotteryConsultantPaidCheating/File Handling/fileHandlingFunctions.h
 
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/main.c
-stdio.h
--
-stdlib.h
--
-macrosDefinition.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/macrosDefinition.h
-utilityFunctions.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/utilityFunctions.h
-fileHandlingFunctions.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/fileHandlingFunctions.h
-requestHandling.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/requestHandling.h
-errorHandling.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/errorHandling.h
+D:/Papster/Codes/C/LotteryConsultantPaidCheating/Model/requestHandling.h
 
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/metrics.c
-stdlib.h
--
-macrosDefinition.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/macrosDefinition.h
-metrics.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/metrics.h
-errorHandling.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/errorHandling.h
+D:/Papster/Codes/C/LotteryConsultantPaidCheating/Utility/macrosDefinition.h
 
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/metrics.h
-
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/requestHandling.c
-stdio.h
--
-stdlib.h
--
-macrosDefinition.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/macrosDefinition.h
-utilityFunctions.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/utilityFunctions.h
-metrics.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/metrics.h
-requestHandling.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/requestHandling.h
-
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/requestHandling.h
-
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/utilityFunctions.c
-stdio.h
--
-stdlib.h
--
-stdbool.h
--
-macrosDefinition.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/macrosDefinition.h
-utilityFunctions.h
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/utilityFunctions.h
-
-D:/Papster/Codes/C/LotteryConsultantPaidCheating/utilityFunctions.h
+D:/Papster/Codes/C/LotteryConsultantPaidCheating/Utility/utilityFunctions.h
 stdbool.h
 -
 
